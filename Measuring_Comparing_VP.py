@@ -1,19 +1,3 @@
-"""
-L2: Voice Analysis Lab
-
-Record → Analyze → Compare Two Recordings
-
-============== DEPENDENCY SETUP ==============
-CHECK IF INSTALLED: pip show SpeechRecognition pyaudio numpy matplotlib
-
-INSTALL - WINDOWS:
-pip install SpeechRecognition pyaudio numpy matplotlib
-
-INSTALL - macOS:
-brew install portaudio
-pip install SpeechRecognition pyaudio numpy matplotlib
-==============================================
-"""
 
 import threading
 import sys
